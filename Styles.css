@@ -1,0 +1,35 @@
+/*   */
+
+#header {
+  display: block;
+  margin: auto;
+}
+#title {
+  font-size: 200%;
+}
+#sub-title {
+  font-size: 100%;
+}
+#img-div {
+  display: block;
+}
+#image {
+  border-radius: 2%;
+  border-color: white;
+}
+#text-box {
+  display: block;
+}
+#category {
+  font-size: 125%;
+  text-align: center;
+}
+#tribute-info {
+  font-size: 100%;
+}
+#footer {
+  display: block;
+}
+#tribute-link {
+  font-size: 100%;
+}
